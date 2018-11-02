@@ -27,7 +27,7 @@ function! linetargets#new(args)
 endfunction
 
 " The next three functions are the generator functions, one for the
-" current target (around the cursor), on for next (after cursor) and one for
+" current target (around the cursor), one for next (after cursor) and one for
 " last/previous (before cursor).
 "
 " They all need to take the following three arguments:
